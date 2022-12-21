@@ -1,0 +1,15 @@
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.csproj.AssemblyReference.cache
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.AssemblyInfoInputs.cache
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.AssemblyInfo.cs
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.csproj.CoreCompileInputs.cache
+F:\VS\Programs\C#\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.exe
+F:\VS\Programs\C#\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.deps.json
+F:\VS\Programs\C#\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.runtimeconfig.json
+F:\VS\Programs\C#\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.dll
+F:\VS\Programs\C#\ATMProject\ATMProject\bin\Debug\net6.0\ref\ATMProject.dll
+F:\VS\Programs\C#\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.pdb
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.dll
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ref\ATMProject.dll
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.pdb
+F:\VS\Programs\C#\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.genruntimeconfig.cache
